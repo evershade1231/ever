@@ -1,0 +1,4 @@
+*.pdf
+*.log
+*.tmp
+node_modules/
